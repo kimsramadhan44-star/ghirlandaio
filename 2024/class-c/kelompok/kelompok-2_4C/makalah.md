@@ -158,6 +158,7 @@ Dalam perspektif hiperrealita, kondisi ini menunjukkan bahwa simulasi yang dihas
 ## DAFTAR PUSTAKA 
 
 Baudrillard, Jean. 1994. Simulacra and simulation Ann Arbor: University of Michigan Press. 
+
 Baudrillard, Jean. 1981. Simulacres et Simulation. Paris: Editions Galilee. 
 
 

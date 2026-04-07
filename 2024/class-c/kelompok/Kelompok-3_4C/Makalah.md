@@ -216,9 +216,14 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 <br>
 
 ### **<p align="center">DAFTAR PUSTAKA</p>**
+<br> 
 <p align="justify">
 Skousen, Mark. 2007. The Big Three in Economics: M.E. Sharpe.
+<br>
 Marx, Karl. 2015. Das Kapital: Progress Publishers.
+<br>
 Keynes, John Maynard. 1920. The Economics Consequences of The Peace: The Macmillan Co.
+<br>
 Berlin, Leslie. 2017. Troublemakers: Silicon Valley's Coming of Age: Simon and Schuster.
+<br>
 Smith, Adam. 2005. The Wealth of Nations: The Electronic Classic Series Publication.

@@ -34,7 +34,8 @@ Kami mengucapkan syukur kepada Allah SWT. atas limpahan nikmat sehat-Nya, baik i
 
 Makalah ini telah kami susun dengan maksimal dan mendapatkan bantuan dari berbagai pihak sehingga dapat memperlancar pembuatan makalah ini. Untuk itu kami menyampaikan banyak terima kasih kepada Bapak Al-Muhdil Karim, S.IP., M.Hum. selaku dosen Perpustakaan dan Kearsipan Digital dan semua pihak yang telah berkontribusi dalam penyusunan makalah ini. Dalam penyusunan makalah ini, kami menyadari bahwa makalah ini masih jauh dari kata sempurna. Sehingga kami selaku penyusun sangat mengharapkan kritik dan saran yang membangun dari pembaca sekalian. Akhir kata semoga makalah ini dapat memberikan manfaat untuk kelompok kami khususnya, dan para pembaca.
 
-
+<br>
+<br>
 
 
 **<p align="center">BAB I</p>**

@@ -2,7 +2,7 @@ JAWABAN RESUME PERTEMUAN 4
 Pertanyaan: Apa tantangan utama dari terciptanya ruang publik digital saat ini? 
 ---
 Ruang publik, seperti yang didefinisikan oleh **Jürgen Habermas** adalah arena di mana individu dapat berdiskusi secara rasional dan kritis 
-untuk mencapai konsensus, yang sekarang telah berpindah ke ranah digital. Meski internet menjanjikan demokratisasi informasi, namun pada kenyataannya
+untuk mencapai konsensus, yang sekarang telah berpindah ke ranah digital. Meskipun internet menjanjikan demokratisasi informasi, namun pada kenyataannya
 ruang publik digital yang sehat saat ini sedang menghadapi tantangan struktural yang berat. Tantangan utama saat ini bukan lagi terletak pada aksesibilitas, 
 melainkan pada **kualitas deliberasi** dan **dominasi infrastruktur privat** yang mengancam integritas demokrasi.
 Tantangan pertama berakar pada **logika algoritma dan komersialisasi platform**, dimana Ruang publik digital saat ini bukanlah tanah tak bertuan, 

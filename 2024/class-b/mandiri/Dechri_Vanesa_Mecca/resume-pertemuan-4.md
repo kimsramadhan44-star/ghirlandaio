@@ -11,5 +11,6 @@ Perbedaan antara open source dan closed source dapat dianalisis tidak hanya dari
 ## Kesimpulan
 Perbedaan antara open source dan closed source tidak hanya berkaitan dengan aspek teknis dalam pengelolaan kode sumber, tetapi juga mencerminkan ideologi yang mendasarinya. closed source menunjukkan kepimilikan privat yang menekankan kontrol, pembatasan akses. open source menunjukkan nilai keterbukaan, kerja sama. 
 
-
+## Daftar Pustaka
+Kelompok 3.(2026).*Transformasi Ekosistem Teknologi: Dari Dominasi Negara ke Era Kolaborasi Terbuka*
 

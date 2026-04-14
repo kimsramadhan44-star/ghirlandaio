@@ -78,6 +78,7 @@ Secara etis, prinsip keamanan siber di lembaga informasi dipandang sebagai nilai
 ## 2.4 Analisa resiko keamanan perpustakaan dan arsip digital berdasarkan data historis
 Berdasarkan data penelitian pemodelan risiko dan catatan insiden siber global, risiko keamanan pada lembaga informasi digital tidak tersebar secara merata, melainkan terkonsentrasi pada titik-titik tertentu yang memiliki akses publik tinggi dan perilaku pengguna yang rentan.
 Berikut adalah rincian analisis risikonya:
+
 a.  Skor Risiko Berdasarkan Jenis Sistem (Cybersecurity Risk Score - CRS)
 Berdasarkan data metrik keamanan siber, setiap subsistem di perpustakaan memiliki tingkat kerentanan yang berbeda :
 1. Terminal OPAC (Online Public Access Catalog): Memiliki skor risiko tertinggi (8,7) karena aksesibilitasnya yang terbuka untuk umum dan sering kali menggunakan protokol otentikasi yang lemah atau usang

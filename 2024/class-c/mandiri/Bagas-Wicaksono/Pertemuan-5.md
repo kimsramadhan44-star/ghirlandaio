@@ -16,9 +16,10 @@ Ranganathan menjelaskan jika kondisi seperti ini terus terjadi, maka akan dapat 
 
 ### 5 Hukum Perpustakaan
 #### Hukum 1: *"Books Are For Use"*
-Artinya: Buku-buku diciptakan untuk digunakan. Hukum pertama ini mengkritik penggunaan buku pada era tersebut yang masih sangat terbatas dan sifatnya masih tertutup. Menurutnya hal ini dapat menghentikan fungsi buku yang sebenarnya. Pelestarian buku bukan hanya dengan disimpan, melainkan digunakan sebagaimana fungsi edukasinya. Pelestarian juga dapat dilakukan dengan cara terus mengembangkan apa yang tertulis di dalam buku melalui pemikiran para pembacanya.
+Artinya: "Buku-buku diciptakan untuk digunakan". Hukum pertama ini mengkritik penggunaan buku pada era tersebut yang masih sangat terbatas dan sifatnya masih tertutup. Menurut Ranganathan hal tersebut dapat menghentikan fungsi buku yang sebenarnya. Pelestarian buku bukan hanya dengan cara disimpan, melainkan digunakan sebagaimana fungsi edukasinya. Pelestarian juga dapat dilakukan dengan cara terus mengembangkan apa yang tertulis di dalam buku melalui pemikiran para pembacanya.
 
-#### Hukum 2:
+#### Hukum 2: *"Every Person His/Her Book"*
+Artinya: "Setiap orang mempunyai bukunya". maksudnya adalah setiap pembaca mempunyai kebutuhan informasi yang berbeda-beda,  namun walaupun seperti itu perpustakaan harus tetap mampu menyediakan kebutuhan koleksi para pembaca. Karena setiap orang berhak untuk mendapatkan pendidikan, pendidikan yang dimaksud adalah pengetahuan yang ada di dalam buku. Prinsip Hukum ke-2 Perpustakaan pada dasarnya ingin menciptakan layanan perpustakaan yang relevan dan tidak diskriminatif kepada para pembaca. 
 
 #### Hukum 3:
 

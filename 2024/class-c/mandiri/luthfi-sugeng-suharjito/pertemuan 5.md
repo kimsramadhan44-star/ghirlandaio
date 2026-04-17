@@ -23,3 +23,7 @@ Nilai keempat adalah akuntabilitas yang mencakup nilai-nilai seperti tranparasi,
 ## Kesimpulan
 
 Dalam dunia yang telah berkembang ini, ada banyak orang yang telah terjun ke dalam internet dan dunia digital. Tak jarang kita menemukan orang - orang yang gaptek atau disebut juga gagap teknologi, menyebarkan privasinya sendiri, masuk ke link yang tidak jelas asal - usulnya. Sebagai mahasiswa yang melek akan teknologi kita harus mengajarkan atau setidaknya mengingatkan orang terdekat kita agar tidak terjadi hal yang diinginkan. Ke-4 poin di atas juga dapat menjadi petunjuk hal apa yang boleh dan tidak boleh dilakukan di dunia maya.
+
+## Daftar Pustaka
+
+Christen, M., Gordijn, B., & Loi, M. (Eds.). (2020). The ethics of cybersecurity. Springer.

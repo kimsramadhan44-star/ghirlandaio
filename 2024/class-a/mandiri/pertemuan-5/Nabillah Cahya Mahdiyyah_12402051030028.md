@@ -38,3 +38,7 @@ sekaligus membimbing pengguna agar mampu menggunakan informasi secara bijak, eti
 
 # Daftar Pustaka
 
+Putri, C. A., Anwar, R. K., Amar, S. C. D., & Rukmana, E. N. (2024). Keamanan Informasi dan Privasi Pengguna dalam Layanan Perpustakaan Digital. Media Pustakawan, 31(3), 266–276. https://doi.org/10.37014/medpus.v31i3.5317
+
+Suratmi, I. (2019). PERAN DAN TANGGUNG JAWAB PUSTAKAWAN SEBAGAI PENGELOLA INFORMASI DI PERPUSTAKAAN. https://digilib.isi.ac.id/6192/
+
